@@ -1,3 +1,5 @@
+#Password-strength-checker
+
 #Generate a randowm number between 1 and 10
 import re
 
@@ -66,4 +68,5 @@ if feedback:
     for item in feedback:
         print(f"- {item}")
 longresults(strength)
+
      
